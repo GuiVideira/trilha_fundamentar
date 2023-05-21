@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+
+/*
+header {
+    height: 100px;
+    border: 4px dashed blue;
+    padding: 5px;
+
+
+}*/
+
+body {
+    background-color: gray;
+    background-image: url(https://th.bing.com/th/id/R.ab07b6733b54670f99dac3c50fedb6a6?rik=Wt2Wu8sNoP5Lvg&riu=http%3a%2f%2fwww.v3wall.com%2fwallpaper%2fsmall%2f1003%2fsmall_20100325122851481536.jpg&ehk=OrFw%2f0136AaJ19K%2bRTazDexLIbUQf5m%2bZEd39Op1ftE%3d&risl=&pid=ImgRaw&r=0);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-origin: content-box;
+    background-clip: content-box;
+    background-attachment: fixed;
+
+    /* Shorthand */
+    background: radial-gradient(blue,white  , green), url(https://th.bing.com/th/id/R.ab07b6733b54670f99dac3c50fedb6a6?rik=Wt2Wu8sNoP5Lvg&riu=http%3a%2f%2fwww.v3wall.com%2fwallpaper%2fsmall%2f1003%2fsmall_20100325122851481536.jpg&ehk=OrFw%2f0136AaJ19K%2bRTazDexLIbUQf5m%2bZEd39Op1ftE%3d&risl=&pid=ImgRaw&r=0) no-repeat left top / 40px border-box content-box scroll;
+
+
+}

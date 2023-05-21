@@ -1,0 +1,18 @@
+*  {
+    margin: 0;
+}
+
+div, section {
+    border-top: 4px solid blue;
+    border-left: 6px dotted yellow;
+    box-sizing: border-box;
+    outline: 8px green ;
+}
+
+/*div{
+    margin-bottom: 8px;
+}
+
+section{
+    margin-top: 8px;
+}*/
