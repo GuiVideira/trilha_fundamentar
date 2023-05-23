@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/preview.png" alt="Demonstração do projeto" widht="100%">
+  <img src="[.github/preview.png](https://cdn-images-1.medium.com/max/2000/1*l4xICbIIYlz1OTymWCoUTw.jpeg)" alt="HTML, CSS, JS" widht="100%">
 </p>
 
 # 🎯 Objetivo 
