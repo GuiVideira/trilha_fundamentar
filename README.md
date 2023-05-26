@@ -15,7 +15,7 @@ Esse repositório contém:
   - Formulários
   - Images
 
-- CSS
+- CSS:
   - Box
   - Grid
   - Colors
@@ -23,7 +23,7 @@ Esse repositório contém:
   - Border
   - Padding
 
-- JS
+- JS:
   - Comentarios
   - DataType:
     - String
@@ -31,5 +31,15 @@ Esse repositório contém:
     - Number
     - Object
     - Array
-  - Variaveis
-- GIT e Github
+  - Variaveis:
+    - Var
+    - Let
+    - Const
+    - Scope:
+      - Scope Let
+      - Scope Var
+      - Scope Const
+- GIT e Github:
+  - Commit
+  - Criar Repositório
+
