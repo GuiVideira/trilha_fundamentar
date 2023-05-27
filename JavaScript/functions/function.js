@@ -1,20 +1,12 @@
-//callback function
-//Uma callback function é uma função que está sendo passada para outra função como parâmetro. 
+/*Prototype
+O JavaScript possui uma característica chamada Prototype, 
+que é uma série de funcionalidades e atributos que já existem 
+ nativamente em diversos tipos de dados, que são lidados como objetos.
 
-function sayMyName(name){
-    console.log('antes de executar da callback')
-    console.log('.')
-    
-    name()
-    
-    console.log('.')
-    console.log('depois da callback')
-}
+    Prototype
+    *prototype-based language 
+    *prototype chain 
+    *__proto__
+*/
 
 
-
-sayMyName(
-    () => {
-        console.log('estou em uma callback')
-    }
-)
