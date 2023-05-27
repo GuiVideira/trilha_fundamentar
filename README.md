@@ -39,6 +39,12 @@ Esse repositório contém:
       - Scope Let
       - Scope Var
       - Scope Const
+  - Functions:
+    - Function Scope
+    - Function Hoisting
+    - Arrow Function
+    - Callback Function
+    - Function COnstructor
 - GIT e Github:
   - Commit
   - Criar Repositório
