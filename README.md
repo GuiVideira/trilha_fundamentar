@@ -45,6 +45,11 @@ Esse repositório contém:
     - Arrow Function
     - Callback Function
     - Function COnstructor
+  - Expressions 
+  - Operadores
+    - Binary
+    - Unary
+    - Ternary
 - GIT e Github:
   - Commit
   - Criar Repositório
