@@ -50,6 +50,12 @@ Esse repositório contém:
     - Binary
     - Unary
     - Ternary
+    - Comparação 
+    - Estritamente igual 
+    - Estritamente diferente
+    - Atribuição
+    - Lógicos
+    - Grouping Operator
 - GIT e Github:
   - Commit
   - Criar Repositório
