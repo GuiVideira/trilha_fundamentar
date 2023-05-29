@@ -56,6 +56,13 @@ Esse repositório contém:
     - Atribuição
     - Lógicos
     - Grouping Operator
+  - Condicionals
+    - If
+    - Else
+    - Else If
+    - Switch case
+    - Throw
+    - Try and Catch
 - GIT e Github:
   - Commit
   - Criar Repositório
