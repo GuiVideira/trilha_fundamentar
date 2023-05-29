@@ -63,6 +63,11 @@ Esse repositório contém:
     - Switch case
     - Throw
     - Try and Catch
+  - Repetição:
+    - For 
+    - For if 
+    - For in
+    - While
 - GIT e Github:
   - Commit
   - Criar Repositório
