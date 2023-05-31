@@ -22,6 +22,11 @@ Esse repositório contém:
   - Background
   - Border
   - Padding
+  - Seletores
+  - Combinator:
+    - Child Combinator
+    - Siblins Combinator
+
 
 - JS:
   - Comentarios
