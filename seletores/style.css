@@ -1,0 +1,16 @@
+h1 {
+    color: blueviolet;
+    font-size: 60px;
+}
+
+p:hover{
+    color: brown;
+}
+
+.perlon {
+    color: aquamarine;
+}
+
+.big:hover {
+    font-size: 6rem;
+}
