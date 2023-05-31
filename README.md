@@ -27,7 +27,6 @@ Esse repositório contém:
     - Child Combinator
     - Siblins Combinator
 
-
 - JS:
   - Comentarios
   - DataType:
