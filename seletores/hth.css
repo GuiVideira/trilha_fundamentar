@@ -1,0 +1,16 @@
+ul li:nth-of-type(1) {
+    font-weight: bold;
+  }
+
+  ul li:nth-child(3) {
+    font-weight: bold;
+    font-size: 18PX;
+  }
+
+  ul li:nth-child(even) {
+    color: brown;
+  }
+
+  ul li:nth-child(odd) {
+    background-color: rgb(121, 104, 135);
+  }
