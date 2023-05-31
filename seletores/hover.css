@@ -5,3 +5,7 @@ a:hover{
 input:focus {
     border-color: red;
   }
+
+input:disabled{
+    background-color:green;
+  }
