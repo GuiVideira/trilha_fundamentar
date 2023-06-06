@@ -75,4 +75,6 @@ Esse repositório contém:
 - GIT e Github:
   - Commit
   - Criar Repositório
+  - Pull Request
+  - Git Clone
 
