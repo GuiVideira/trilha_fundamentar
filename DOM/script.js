@@ -1,14 +1,15 @@
-//Manipulando Conteudo
+//Alterando Estilos
+//const element = document.querySelector('body')
 
-//textContent
-//const element = document.querySelector('h1')
-//element.textContent+= ' Diz Olá Devs!!'
-//console.log(element.textContent)
+//element.style.backgroundColor="#f9f3d2"
+//console.log(element.style.backgroundColor)
+//console.log(element.style.backgroundColor)
 
-//InnerText
-//const element = document.querySelector('h1')
-//element.innerText= ' Olá Devs!!'
 
-//InnerHTML
-const element = document.querySelector('h1')
-element.innerHTML= ' Olá Devs !<small>!</small>!'
+//classList
+const element = document.querySelector('body')
+
+element.classList.add('active', 'green')//poem estilo
+console.log(element.classList)
+element.classList.remove('active')//retira estilo
+element.classList.toggle('active')//se tem tira, se n tem, poem
