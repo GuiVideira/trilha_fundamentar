@@ -26,6 +26,7 @@ Esse repositório contém:
   - Combinator:
     - Child Combinator
     - Siblins Combinator
+  - FlexBox
 
 - JS:
   - Comentarios
@@ -49,6 +50,7 @@ Esse repositório contém:
     - Arrow Function
     - Callback Function
     - Function COnstructor
+  - DOM
   - Expressions 
   - Operadores
     - Binary
@@ -72,6 +74,7 @@ Esse repositório contém:
     - For if 
     - For in
     - While
+    
 - GIT e Github:
   - Commit
   - Criar Repositório
