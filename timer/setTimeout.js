@@ -1,6 +1,8 @@
 //setTimeout vai rodar uma função depois de X tempos
 
-const timeOut = 3000
-const finished = () => console.log('done!')
+const timeOut = 1000
+const checking = () => console.log('checking!')
 
-setTimeout(finished, timeOut)
+let interval = setInterval(checking, timeOut)
+
+setTimeout ( ()=> clearInterval(interval), 3000)
