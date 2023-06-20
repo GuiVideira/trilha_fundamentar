@@ -5,3 +5,9 @@ const questions = [
     "O que me deixou feliz hoje?",
     "Quantas pessoas eu ajudei hoje?",
 ]
+
+const ask = (index = 0 ) =>{
+    process.stdout.write(questions[index] + "\n\n\n")
+}
+
+ask()
